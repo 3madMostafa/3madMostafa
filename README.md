@@ -84,9 +84,6 @@ I also build and deploy **AI features on AWS** for a pharmacy-tech company in th
   <img src="https://streak-stats.demolab.com?user=3madMostafa&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3madMostafa&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/3madMostafa/3madMostafa/output/github-snake-dark.svg" width="100%"/>
 </p>
 
