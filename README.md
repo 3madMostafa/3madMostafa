@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emad-mostafa-srag-eldein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/emadsrageldein"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.datascienceportfol.io/emadmostafa1442002"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=readme&logoColor=white"/></a>
+  <a href="https://3madmostafa.github.io"><img src="https://img.shields.io/badge/Portfolio-1f2fd1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:emadmostafa1442002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=3madMostafa&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS"/>
 </p>
@@ -67,10 +67,10 @@ I also build and deploy **AI features on AWS** for a pharmacy-tech company in th
 | Project | Description | Stack |
 |---|---|---|
 | [Retail Sales Forecasting](https://github.com/3madMostafa/Retail-Sales-Project) · [Live demo](https://app-ml-app-yvvmoz8us6zxzubibglmhh.streamlit.app/) | Store-sales forecasting comparing Prophet, XGBoost and LSTM. Deployed with Streamlit, experiments tracked in MLflow. | Time Series, MLflow, Streamlit |
-| [ChatPDF with RAG](https://github.com/3madMostafa/ChatPDF-RAG) | Ask questions about any PDF and get answers grounded in the document. | LLMs, RAG, Vector Search |
+| [ChatPDF with RAG](https://github.com/3madMostafa/chat_pdf) | Ask questions about any PDF and get answers grounded in the document. | LLMs, RAG, Vector Search |
 | [Video & PDF Summarization](https://github.com/3madMostafa/Video-Summarization-using-subtitles) | Summarizes long videos and PDFs, cutting length by ~70% while keeping key points. | NLP, Transformers |
-| [OCT Disease Classification](https://github.com/3madMostafa/Deep-Learning-Classification) | Multi-label eye-disease classification with VGG16 and InceptionV3 (92% accuracy). | CNNs, Transfer Learning |
-| [Malaria Detection](https://github.com/3madMostafa/Malaria-Detection) | Detects malaria in blood-cell images (95% accuracy). | ANN, SVM |
+| OCT Disease Classification | Multi-label eye-disease classification with VGG16 and InceptionV3 (92% accuracy). | CNNs, Transfer Learning |
+| Malaria Detection | Detects malaria in blood-cell images (95% accuracy). | ANN, SVM |
 
 ## Education & Certifications
 
