@@ -1,43 +1,78 @@
-# Hello, I'm Emad Mostafa 👋  
-**Machine Learning Engineer | NLP Specialist | Data Scientist**
+# Emad Mostafa
 
-🌟 **Summary**  
-I am a passionate Data Scientist and Machine Learning Engineer specializing in **Natural Language Processing (NLP)** and **Deep Learning**. With hands-on experience in **Retrieval-Augmented Generation (RAG)** models, **data analysis**, and **statistical modeling**, I leverage tools like **Python**, **TensorFlow**, and **scikit-learn** to extract valuable insights from large datasets. I am committed to solving complex real-world challenges through data-driven approaches and developing advanced AI solutions.
+**Data Scientist & Machine Learning Engineer** — Time Series · Generative Models · Reinforcement Learning · ML on AWS
 
-🔗 **Portfolio**  
-[Explore My Data Science Portfolio](https://www.datascienceportfol.io/emadmostafa1442002)
+Cairo, Egypt · M.Sc. Statistics (Data Science), Cairo University
 
-💻 **Skills**  
-- Machine Learning: Data Processing, Statistical Analysis, Data Modeling, Predictive Modeling, Deep Learning, NLP, RAG Models
-- Programming Languages: Python, C/C++, JavaScript, Java, PHP, HTML, CSS
-- Data Visualization: Matplotlib, Seaborn, Plotly
-- Tools: TensorFlow, scikit-learn, Git, MLflow, Docker, MySQL, Cloud Computing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emad-mostafa-srag-eldein)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/emadsrageldein)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=readme&logoColor=white)](https://www.datascienceportfol.io/emadmostafa1442002)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emadmostafa1442002@gmail.com)
 
-📈 **Top Projects**  
-1. **[Retail Sales Time Series Forecasting](https://github.com/3madMostafa/Retail-Sales-Project)**  
-   Developed a time series forecasting model to predict store sales, applying Prophet, XGBoost, and LSTM. Achieved 94% accuracy with live deployment using Streamlit and MLflow for model management.  
-   [Live Demo](https://app-ml-app-yvvmoz8us6zxzubibglmhh.streamlit.app/)
+---
 
-2. **[ChatPDF using RAG](https://github.com/3madMostafa/ChatPDF-RAG)**  
-   Built a chat application allowing users to interact with and query PDF documents using **Retrieval-Augmented Generation** models.
+## About
 
-3. **[Malaria Detection using ANN and SVM](https://github.com/3madMostafa/Malaria-Detection)**  
-   Developed a model for detecting malaria in cell images, achieving 95% accuracy using ANN and SVM.
+I build machine learning systems that go from data to production.
+My main work is on **financial time series**: generating realistic synthetic market data with **TimeGAN**, checking it with **statistical tests**, and using it to train **deep learning** and **reinforcement learning** models for trading.
+I also build and deploy **AI features on AWS** for a pharmacy-tech company in the US.
 
-4. **[Deep Learning Classification using VGG16 and InceptionV3](https://github.com/3madMostafa/Deep-Learning-Classification)**  
-   Implemented multi-label classification on an OCT dataset using transfer learning techniques, achieving a 92% accuracy rate.
+## Experience
 
-5. **[OCR System using ANN and CNN](https://github.com/3madMostafa/OCR-System)**  
-   Developed an OCR system for handwritten digit recognition using the MNIST dataset, achieving a 98% accuracy rate.
+**Data Scientist — Limitless Labs** · Cairo · Aug 2025 – Present
+- Generate synthetic financial time series with **TimeGAN** to augment limited market data.
+- Evaluate synthetic data quality with statistical methods (distribution tests, autocorrelation, stylized facts of returns).
+- Build **deep learning** and **reinforcement learning** models for the trading domain.
 
-6. **[Video and PDF Summarization using NLP](https://github.com/3madMostafa/Video-Summarization-using-subtitles)**  
-   Built models for summarizing videos and PDF documents, reducing content length by 70% while preserving key information.
+**AI & ML Engineer (Part-time) — Banyan** · Remote, USA · Nov 2024 – Present
+- Build and ship **AI features** for pharmacy products, from data analysis to deployment.
+- Develop data pipelines and ML models on **AWS** for trend detection and business insights.
 
-📜 **Certifications**  
-- IBM Data Science Professional Certificate  
-- DeepLearning.AI TensorFlow Developer Professional Certificate  
-- Machine Learning Specialization - Coursera
+**IBM Data Science Intern — Digital Egypt Pioneers (DEPI)** · Jun 2024 – Oct 2024
 
-📫 **Get in Touch**  
-- [LinkedIn](https://www.linkedin.com/in/emad-mostafa-srag-eldein)  
-- [Kaggle](https://www.kaggle.com/emadsrageldein)  
+**ML Instructor — IEEE & MSP Tech Club, Helwan University** · 2022 – 2024 · taught 180+ students
+
+## Focus Areas
+
+| Area | What I work with |
+|---|---|
+| Time Series | TimeGAN, forecasting (LSTM, Prophet, XGBoost), synthetic data evaluation |
+| Statistics | Hypothesis testing, distribution analysis, statistical modeling |
+| Deep Learning | PyTorch, TensorFlow, CNNs, RNNs/LSTMs, GANs, transfer learning |
+| Reinforcement Learning | Trading agents, custom environments |
+| NLP & LLMs | RAG, summarization, NER |
+| MLOps & Cloud | AWS, Docker, MLflow, Streamlit, Git |
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Retail Sales Forecasting](https://github.com/3madMostafa/Retail-Sales-Project) · [Live demo](https://app-ml-app-yvvmoz8us6zxzubibglmhh.streamlit.app/) | Store-sales forecasting comparing Prophet, XGBoost and LSTM. Deployed with Streamlit, experiments tracked in MLflow. | Time Series, MLflow, Streamlit |
+| [ChatPDF with RAG](https://github.com/3madMostafa/ChatPDF-RAG) | Ask questions about any PDF and get answers grounded in the document. | LLMs, RAG, Vector Search |
+| [Video & PDF Summarization](https://github.com/3madMostafa/Video-Summarization-using-subtitles) | Summarizes long videos and PDFs, cutting length by ~70% while keeping key points. | NLP, Transformers |
+| [OCT Disease Classification](https://github.com/3madMostafa/Deep-Learning-Classification) | Multi-label eye-disease classification with VGG16 and InceptionV3 (92% accuracy). | CNNs, Transfer Learning |
+| [Malaria Detection](https://github.com/3madMostafa/Malaria-Detection) | Detects malaria in blood-cell images (95% accuracy). | ANN, SVM |
+
+## Education & Certifications
+
+- **M.Sc. Statistics, Data Science track** — Cairo University (2024 – 2027)
+- **B.Sc. Computer Science & AI** — Helwan University (2020 – 2024), Very Good
+- DeepLearning.AI TensorFlow Developer · IBM Data Science Professional · Machine Learning Specialization (Coursera)
+
+---
+
+Open to opportunities in **ML engineering, time series, and applied AI**. Feel free to reach out.
