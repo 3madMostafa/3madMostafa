@@ -37,7 +37,7 @@ I also build and deploy **AI features on AWS** for a pharmacy-tech company in th
 
 **IBM Data Science Intern — Digital Egypt Pioneers (DEPI)** · Jun 2024 – Oct 2024
 
-**ML Instructor — IEEE & MSP Tech Club, Helwan University** · 2022 – 2024 · taught 180+ students
+**ML Instructor — IEEE & MSP Tech Club, Helwan University** · Jan 2022 – Feb 2023 · taught 180+ students
 
 ## Focus Areas
 
@@ -113,7 +113,7 @@ Downloads e-invoices every day, finds PO numbers and emails an Excel report. No 
 
 ## Education & Certifications
 
-- **M.Sc. Statistics, Data Science track** — Cairo University (2024 – 2027)
+- **M.Sc. Statistics, Data Science track** — Cairo University (2025 – 2028)
 - **B.Sc. Computer Science & AI** — Helwan University (2020 – 2024), Very Good
 - DeepLearning.AI TensorFlow Developer · IBM Data Science Professional · Machine Learning Specialization (Coursera)
 
