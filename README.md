@@ -107,7 +107,7 @@ Downloads e-invoices every day, finds PO numbers and emails an Excel report. No 
 </tr>
 </table>
 
-**Other work:** Retinal OCT scan classification with VGG16 and InceptionV3 (92% accuracy) · Malaria detection from cell images (95% accuracy)
+**Other work:** [Handwritten letter recognition](https://github.com/3madMostafa/handwriting-cnn) (CNN, A–Z, with a drawing app) · [Handwritten digits from scratch](https://github.com/3madMostafa/recognition-of-handwritten-digits) (NumPy vs Keras) · Retinal OCT scan classification with VGG16 and InceptionV3 (92% accuracy) · Malaria detection from cell images (95% accuracy)
 
 👉 See all projects on my [**portfolio website**](https://3madmostafa.github.io).
 
