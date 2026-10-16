@@ -62,15 +62,54 @@ I also build and deploy **AI features on AWS** for a pharmacy-tech company in th
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
 </p>
 
-## Selected Projects
+## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Retail Sales Forecasting](https://github.com/3madMostafa/Retail-Sales-Project) · [Live demo](https://app-ml-app-yvvmoz8us6zxzubibglmhh.streamlit.app/) | Store-sales forecasting comparing Prophet, XGBoost and LSTM. Deployed with Streamlit, experiments tracked in MLflow. | Time Series, MLflow, Streamlit |
-| [ChatPDF with RAG](https://github.com/3madMostafa/chat_pdf) | Ask questions about any PDF and get answers grounded in the document. | LLMs, RAG, Vector Search |
-| [Video & PDF Summarization](https://github.com/3madMostafa/Video-Summarization-using-subtitles) | Summarizes long videos and PDFs, cutting length by ~70% while keeping key points. | NLP, Transformers |
-| OCT Disease Classification | Multi-label eye-disease classification with VGG16 and InceptionV3 (92% accuracy). | CNNs, Transfer Learning |
-| Malaria Detection | Detects malaria in blood-cell images (95% accuracy). | ANN, SVM |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Retail Sales Forecasting](https://github.com/3madMostafa/Retail-Sales-Project)
+Predicts daily sales for 54 stores. Compares ARIMA, Prophet, XGBoost and LSTM, tracked in MLflow.
+
+`Time Series` `XGBoost` `MLflow` `Streamlit`
+
+[**▶ Live demo**](https://app-ml-app-yvvmoz8us6zxzubibglmhh.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [Video Summarization](https://github.com/3madMostafa/Video-Summarization-using-subtitles)
+Turns long videos into short summaries. 5 NLP methods compared on 523 YouTube videos.
+
+`NLP` `Transformers` `T5` `ROUGE`
+
+<img src="https://raw.githubusercontent.com/3madMostafa/Video-Summarization-using-subtitles/main/assets/demo.gif" width="110"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [AI Study Assistant](https://github.com/3madMostafa/chat_pdf)
+Chat with PDFs, images and YouTube videos. Makes quizzes and flashcards. Arabic and English OCR.
+
+`Gemini API` `Streamlit` `OCR` `Text-to-Speech`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [Invoice Automation](https://github.com/3madMostafa/AI-invoice-scraper)
+Downloads e-invoices every day, finds PO numbers and emails an Excel report. No manual work.
+
+`Selenium` `Regex` `pandas` `Automation`
+
+</td>
+</tr>
+</table>
+
+**Other work:** Retinal OCT scan classification with VGG16 and InceptionV3 (92% accuracy) · Malaria detection from cell images (95% accuracy)
+
+👉 See all projects on my [**portfolio website**](https://3madmostafa.github.io).
 
 ## Education & Certifications
 
